@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/firewall",
+    "name": "spinfire0/firewall",
     "description": "A Laravel IP whitelisting and blacklisting",
     "keywords": [
         "firewall",
@@ -10,9 +10,9 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Antonio Carlos Ribeiro",
+            "name": "Spinfire",
             "email": "acr@antoniocarlosribeiro.com",
-            "role": "Creator"
+            "role": "Maintainer"
         }
     ],
     "require": {
